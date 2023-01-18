@@ -1,0 +1,20 @@
+{
+  "name": "graphql-course",
+  "version": "1.0.0",
+  "description": "CRM con GraphQL React Mongo y Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Edgar Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.8.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
